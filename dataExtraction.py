@@ -45,6 +45,6 @@ for product_link in all_product_links:
         "menşei": mensi
     })
 
-with open('data.json', 'w') as f:
+with open('data.json', 'w', encoding='utf-8') as f:
   json.dump(product_data, f, ensure_ascii=False)
 
