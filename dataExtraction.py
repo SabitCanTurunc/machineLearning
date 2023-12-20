@@ -4,11 +4,11 @@ import json
 
 
 def dataExtraction():
-   base_link = "https://www.boyner.com.tr/search?q=ayakkab%C4%B1&page="
+    base_link = "https://www.boyner.com.tr/search?q=ayakkab%C4%B1&page="
     headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
     all_product_links = []
 
-    for i in range(1, 31):
+    for i in range(1, 2):
         link = base_link + str(i)
         r = requests.get(link, headers=headers)
         soup = BeautifulSoup(r.content, "html.parser")
@@ -32,16 +32,16 @@ def dataExtraction():
         tech_specs2 = product_soup.find_all("span", class_="title_subtitle__9USXk")
 
         taban = next((span.text for span in tech_specs if "taban" in span.text.lower()), None)
-        ic_materyal = next((span.text for span in tech_specs if "iç materyal" in span.text.lower()), None)
         dis_materyal = next((span.text for span in tech_specs if "dış materyal" in span.text.lower()), None)
         mensei = next((span.text for span in tech_specs if "menşei" in span.text.lower()), None)
         cinsiyet = next(("erkek" if "erkek" in span.text.lower() else "kadın" for span in tech_specs2 if "erkek" in span.text.lower() or "kadın" in span.text.lower()), None)
-        tip = next(("terlik" if "terlik" in span.text.lower() else "ayakkabı" if "ayakkabı" in span.text.lower() else "bot" if "bot" in span.text.lower() else None) for span in tech_specs2 if "terlik" in span.text.lower() or "ayakkabı" in span.text.lower() or "bot" in span.text.lower())
+        tip = next((("terlik" if "terlik" in span.text.lower() else "ayakkabı" if "ayakkabı" in span.text.lower() else "bot" if "bot" in span.text.lower() else None)
+                   for span in tech_specs2 if
+                   "terlik" in span.text.lower() or "ayakkabı" in span.text.lower() or "bot" in span.text.lower()), None)
 
         product_data.append({
             "marka": brand,
             "taban": taban,
-            "iç materyal": ic_materyal,
             "dış materyal": dis_materyal,
             "menşei": mensei,
             "cinsiyet": cinsiyet,

@@ -3,7 +3,7 @@ import json
 
 def jsonToExcel():
     # JSON veri setini dosyadan oku
-    with open('data.json', 'r', encoding='utf-8') as f:
+    with open('updated_data.json', 'r', encoding='utf-8') as f:
         json_data = json.load(f)
 
     # JSON veri setini pandas DataFrame'e dönüştür
