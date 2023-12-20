@@ -1,12 +1,13 @@
 import dataExtraction
 import jsonToExcel
-import features
+import organizingFeatures
 
 # veri çekme - json olarak kaydetme
 
 dataExtraction.dataExtraction()
 
-features.features()
+organizingFeatures.abbreviator()
+organizingFeatures.last_words('updated_data.json')
 # verileri excel dosyasına dönüştürme
 
 jsonToExcel.jsonToExcel()
