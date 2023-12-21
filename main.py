@@ -4,17 +4,15 @@ import organizingFeatures
 import oneHotEncoding
 
 # veri çekme - json olarak kaydetme
-
 #dataExtraction.dataExtraction()
 
-organizingFeatures.abbreviator()
-organizingFeatures.last_words('updated_data.json')
+#verisetini düzenle
+organizingFeatures.organize()
 
-
-# verileri excel dosyasına dönüştürme
-
+# verileri excel dosyasına dönüştür
 jsonToExcel.jsonToExcel()
 
+#one-hot encode
 oneHotEncoding.oneHotEncode()
 
 

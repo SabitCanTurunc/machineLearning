@@ -1,4 +1,16 @@
 import json
+import pandas as pd
+
+
+
+def organize():
+    # uzun verileri düzenle
+    abbreviator()
+    # garip içerik düzenleme fonksiyonu
+    last_words('updated_data.json')
+    # tekrar eden verileri sil
+    remove_duplicate_values('updated_data.json', 'updated_data.json')
+
 
 def abbreviator():
 # JSON veri setini dosyadan oku
@@ -43,6 +55,19 @@ def last_words(dosya_adi):
         json.dump(json_data, file, ensure_ascii=False, indent=4)
 
 
+
+
+def remove_duplicate_values(input_file, output_file):
+    data = pd.read_json(input_file)  # CSV dosyasını oku
+    data.drop_duplicates(inplace=True)  # Aynı değerleri sil
+    data.to_json(output_file,  indent=4)  # Güncellenmiş veriyi CSV dosyasına yaz
+
+    #json içerik düzenleme
+    with open(input_file, 'r', encoding='utf-8') as f:
+        json_data = json.load(f)
+
+    with open(output_file, 'w', encoding='utf-8') as file:
+        json.dump(json_data, file, ensure_ascii=False, indent=4)
 
 
 

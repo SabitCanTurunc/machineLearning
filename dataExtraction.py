@@ -29,8 +29,7 @@ def dataExtraction():
         brand = brand.text if brand else None
 
         price = product_soup.find('div', {'class': 'product-price_checkPrice__NMY9e'}).strong.text
-        price = price.replace('TL','').replace('.','')  #fiyatta sadece rakamlar
-
+        price = price.replace('TL', '').replace('.', '')  # fiyatta sadece rakamlar
 
         tech_specs = product_soup.find_all("span", class_="product-information-card_value__jGcTJ")
         tech_specs2 = product_soup.find_all("span", class_="title_subtitle__9USXk")
@@ -54,4 +53,4 @@ def dataExtraction():
         })
 
     with open('data.json', 'w', encoding='utf-8') as f:
-        json.dump(product_data, f, ensure_ascii=False)
+        json.dump(product_data, f, ensure_ascii=False,indent=4)
