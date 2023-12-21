@@ -128,7 +128,7 @@
     {
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
-        "dış materyal": "",
+        "dış materyal": null,
         "menşei": null,
         "cinsiyet": "kadın",
         "tip": "bot",
@@ -137,7 +137,7 @@
     {
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
-        "dış materyal": "",
+        "dış materyal": null,
         "menşei": null,
         "cinsiyet": "kadın",
         "tip": "bot",
@@ -146,7 +146,7 @@
     {
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
-        "dış materyal": "",
+        "dış materyal": null,
         "menşei": null,
         "cinsiyet": "kadın",
         "tip": "bot",
@@ -155,7 +155,7 @@
     {
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
-        "dış materyal": "",
+        "dış materyal": null,
         "menşei": null,
         "cinsiyet": "kadın",
         "tip": "bot",
@@ -182,7 +182,7 @@
     {
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
-        "dış materyal": "",
+        "dış materyal": null,
         "menşei": null,
         "cinsiyet": "kadın",
         "tip": "bot",
@@ -191,7 +191,7 @@
     {
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
-        "dış materyal": "",
+        "dış materyal": null,
         "menşei": null,
         "cinsiyet": "kadın",
         "tip": "bot",
@@ -218,7 +218,7 @@
     {
         "marka": "Skechers ",
         "taban": "Kauçuk",
-        "dış materyal": "",
+        "dış materyal": null,
         "menşei": "Çin",
         "cinsiyet": "erkek",
         "tip": "ayakkabı",
@@ -227,7 +227,7 @@
     {
         "marka": "Skechers ",
         "taban": "Kauçuk",
-        "dış materyal": "",
+        "dış materyal": null,
         "menşei": "Çin",
         "cinsiyet": "erkek",
         "tip": "ayakkabı",
@@ -344,7 +344,7 @@
     {
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
-        "dış materyal": "",
+        "dış materyal": null,
         "menşei": null,
         "cinsiyet": "kadın",
         "tip": null,
@@ -353,7 +353,7 @@
     {
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
-        "dış materyal": "",
+        "dış materyal": null,
         "menşei": null,
         "cinsiyet": "kadın",
         "tip": null,
@@ -362,7 +362,7 @@
     {
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
-        "dış materyal": "",
+        "dış materyal": null,
         "menşei": null,
         "cinsiyet": "kadın",
         "tip": null,
@@ -371,7 +371,7 @@
     {
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
-        "dış materyal": "",
+        "dış materyal": null,
         "menşei": null,
         "cinsiyet": "kadın",
         "tip": "bot",
@@ -380,7 +380,7 @@
     {
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
-        "dış materyal": "",
+        "dış materyal": null,
         "menşei": null,
         "cinsiyet": "kadın",
         "tip": null,
@@ -398,7 +398,7 @@
     {
         "marka": "F By Fabrika ",
         "taban": "Termo",
-        "dış materyal": "",
+        "dış materyal": null,
         "menşei": "Türkiye",
         "cinsiyet": "erkek",
         "tip": "bot",
@@ -424,8 +424,8 @@
     },
     {
         "marka": "F By Fabrika ",
-        "taban": "",
-        "dış materyal": "",
+        "taban": null,
+        "dış materyal": null,
         "menşei": "Türkiye",
         "cinsiyet": "erkek",
         "tip": "bot",
@@ -515,7 +515,7 @@
     {
         "marka": "adidas ",
         "taban": "Kauçuk",
-        "dış materyal": "",
+        "dış materyal": null,
         "menşei": "Endonezya",
         "cinsiyet": "erkek",
         "tip": "ayakkabı",
@@ -524,7 +524,7 @@
     {
         "marka": "adidas ",
         "taban": "Kauçuk",
-        "dış materyal": "",
+        "dış materyal": null,
         "menşei": "Endonezya",
         "cinsiyet": "erkek",
         "tip": "ayakkabı",

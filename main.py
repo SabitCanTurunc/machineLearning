@@ -5,7 +5,7 @@ import oneHotEncoding
 
 # veri çekme - json olarak kaydetme
 
-dataExtraction.dataExtraction()
+#dataExtraction.dataExtraction()
 
 organizingFeatures.abbreviator()
 organizingFeatures.last_words('updated_data.json')
