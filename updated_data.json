@@ -1,5 +1,23 @@
 [
     {
+        "marka": "New Balance ",
+        "taban": "Kauçuk",
+        "dış materyal": null,
+        "menşei": null,
+        "cinsiyet": "kadın",
+        "tip": null,
+        "fiyat": "1599 "
+    },
+    {
+        "marka": "New Balance ",
+        "taban": "Kauçuk",
+        "dış materyal": null,
+        "menşei": null,
+        "cinsiyet": "kadın",
+        "tip": null,
+        "fiyat": "1599 "
+    },
+    {
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
         "dış materyal": "Deri",
@@ -60,7 +78,7 @@
         "menşei": "Türkiye",
         "cinsiyet": "erkek",
         "tip": "bot",
-        "fiyat": "3699 "
+        "fiyat": "2799 "
     },
     {
         "marka": "Harley Davidson ",
@@ -75,10 +93,19 @@
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
         "dış materyal": "Deri",
-        "menşei": "Türkiye",
-        "cinsiyet": "kadın",
+        "menşei": null,
+        "cinsiyet": "erkek",
         "tip": "bot",
-        "fiyat": "3699 "
+        "fiyat": "2799 "
+    },
+    {
+        "marka": "Harley Davidson ",
+        "taban": "Kauçuk",
+        "dış materyal": "Deri",
+        "menşei": null,
+        "cinsiyet": "erkek",
+        "tip": "bot",
+        "fiyat": "2799 "
     },
     {
         "marka": "Harley Davidson ",
@@ -87,25 +114,16 @@
         "menşei": "Türkiye",
         "cinsiyet": "kadın",
         "tip": "bot",
-        "fiyat": "3699 "
+        "fiyat": "2799 "
     },
     {
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
-        "dış materyal": "",
-        "menşei": null,
+        "dış materyal": "Deri",
+        "menşei": "Türkiye",
         "cinsiyet": "kadın",
         "tip": "bot",
-        "fiyat": "3699 "
-    },
-    {
-        "marka": "Harley Davidson ",
-        "taban": "Kauçuk",
-        "dış materyal": "",
-        "menşei": null,
-        "cinsiyet": "kadın",
-        "tip": "bot",
-        "fiyat": "3699 "
+        "fiyat": "2799 "
     },
     {
         "marka": "Harley Davidson ",
@@ -123,7 +141,25 @@
         "menşei": null,
         "cinsiyet": "kadın",
         "tip": "bot",
-        "fiyat": "3699 "
+        "fiyat": "2799 "
+    },
+    {
+        "marka": "Harley Davidson ",
+        "taban": "Kauçuk",
+        "dış materyal": "",
+        "menşei": null,
+        "cinsiyet": "kadın",
+        "tip": "bot",
+        "fiyat": "2799 "
+    },
+    {
+        "marka": "Harley Davidson ",
+        "taban": "Kauçuk",
+        "dış materyal": "",
+        "menşei": null,
+        "cinsiyet": "kadın",
+        "tip": "bot",
+        "fiyat": "2799 "
     },
     {
         "marka": "Harley Davidson ",
@@ -198,24 +234,6 @@
         "fiyat": "263912 "
     },
     {
-        "marka": "Skechers ",
-        "taban": "Poliüretan",
-        "dış materyal": "Deri",
-        "menşei": "Vietnam",
-        "cinsiyet": "erkek",
-        "tip": "ayakkabı",
-        "fiyat": "3499 "
-    },
-    {
-        "marka": "Skechers ",
-        "taban": "Poliüretan",
-        "dış materyal": "Deri",
-        "menşei": "Vietnam",
-        "cinsiyet": "erkek",
-        "tip": "ayakkabı",
-        "fiyat": "3499 "
-    },
-    {
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
         "dış materyal": "Deri",
@@ -234,40 +252,22 @@
         "fiyat": "2499 "
     },
     {
-        "marka": "Nike ",
-        "taban": "Kauçuk",
-        "dış materyal": "Sentetik",
+        "marka": "Skechers ",
+        "taban": "Poliüretan",
+        "dış materyal": "Deri",
         "menşei": "Vietnam",
         "cinsiyet": "erkek",
         "tip": "ayakkabı",
-        "fiyat": "1849 "
+        "fiyat": "3499 "
     },
     {
-        "marka": "Nike ",
-        "taban": "Kauçuk",
-        "dış materyal": "Sentetik",
+        "marka": "Skechers ",
+        "taban": "Poliüretan",
+        "dış materyal": "Deri",
         "menşei": "Vietnam",
         "cinsiyet": "erkek",
         "tip": "ayakkabı",
-        "fiyat": "1849 "
-    },
-    {
-        "marka": "adidas ",
-        "taban": "Kauçuk",
-        "dış materyal": "Sentetik",
-        "menşei": "Endonezya",
-        "cinsiyet": "erkek",
-        "tip": "ayakkabı",
-        "fiyat": "2449 "
-    },
-    {
-        "marka": "adidas ",
-        "taban": "Kauçuk",
-        "dış materyal": "Sentetik",
-        "menşei": "Endonezya",
-        "cinsiyet": "erkek",
-        "tip": "ayakkabı",
-        "fiyat": "2449 "
+        "fiyat": "3499 "
     },
     {
         "marka": "Skechers ",
@@ -306,10 +306,28 @@
         "fiyat": "3749 "
     },
     {
+        "marka": "Hammer Jack ",
+        "taban": "Termoplastik",
+        "dış materyal": "Deri",
+        "menşei": "Türkiye",
+        "cinsiyet": "kadın",
+        "tip": "bot",
+        "fiyat": "1699 "
+    },
+    {
+        "marka": "Hammer Jack ",
+        "taban": "Termoplastik",
+        "dış materyal": "Deri",
+        "menşei": "Türkiye",
+        "cinsiyet": "kadın",
+        "tip": "bot",
+        "fiyat": "1699 "
+    },
+    {
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
         "dış materyal": "Deri",
-        "menşei": null,
+        "menşei": "Türkiye",
         "cinsiyet": "erkek",
         "tip": "bot",
         "fiyat": "2799 "
@@ -318,63 +336,54 @@
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
         "dış materyal": "Deri",
-        "menşei": null,
+        "menşei": "Türkiye",
         "cinsiyet": "erkek",
         "tip": "bot",
         "fiyat": "2799 "
     },
     {
-        "marka": "Hammer Jack ",
-        "taban": "Termoplastik",
-        "dış materyal": "Deri",
-        "menşei": "Türkiye",
+        "marka": "Harley Davidson ",
+        "taban": "Kauçuk",
+        "dış materyal": "",
+        "menşei": null,
         "cinsiyet": "kadın",
-        "tip": "bot",
-        "fiyat": "1699 "
+        "tip": null,
+        "fiyat": "2999 "
     },
     {
-        "marka": "Hammer Jack ",
-        "taban": "Termoplastik",
-        "dış materyal": "Deri",
-        "menşei": "Türkiye",
+        "marka": "Harley Davidson ",
+        "taban": "Kauçuk",
+        "dış materyal": "",
+        "menşei": null,
         "cinsiyet": "kadın",
-        "tip": "bot",
-        "fiyat": "1699 "
+        "tip": null,
+        "fiyat": "2999 "
     },
     {
-        "marka": "Hammer Jack ",
-        "taban": "Termoplastik",
-        "dış materyal": "Deri",
-        "menşei": "Türkiye",
+        "marka": "Harley Davidson ",
+        "taban": "Kauçuk",
+        "dış materyal": "",
+        "menşei": null,
         "cinsiyet": "kadın",
-        "tip": "bot",
-        "fiyat": "1899 "
+        "tip": null,
+        "fiyat": "2999 "
     },
     {
-        "marka": "Hammer Jack ",
-        "taban": "Termoplastik",
-        "dış materyal": "Deri",
-        "menşei": "Türkiye",
-        "cinsiyet": "kadın",
-        "tip": "bot",
-        "fiyat": "1699 "
-    },
-    {
-        "marka": "Skechers ",
-        "taban": "EVA",
-        "dış materyal": "Tekstil",
-        "menşei": "Çin",
+        "marka": "Harley Davidson ",
+        "taban": "Kauçuk",
+        "dış materyal": "",
+        "menşei": null,
         "cinsiyet": "kadın",
         "tip": "bot",
         "fiyat": "2999 "
     },
     {
-        "marka": "Skechers ",
-        "taban": "EVA",
-        "dış materyal": "Tekstil",
-        "menşei": "Çin",
+        "marka": "Harley Davidson ",
+        "taban": "Kauçuk",
+        "dış materyal": "",
+        "menşei": null,
         "cinsiyet": "kadın",
-        "tip": "bot",
+        "tip": null,
         "fiyat": "2999 "
     },
     {
@@ -432,48 +441,57 @@
         "fiyat": "48499 "
     },
     {
-        "marka": "Harley Davidson ",
+        "marka": "adidas ",
         "taban": "Kauçuk",
-        "dış materyal": "",
-        "menşei": null,
-        "cinsiyet": "kadın",
-        "tip": null,
-        "fiyat": "2999 "
+        "dış materyal": "Sentetik",
+        "menşei": "Endonezya",
+        "cinsiyet": "erkek",
+        "tip": "ayakkabı",
+        "fiyat": "2449 "
+    },
+    {
+        "marka": "adidas ",
+        "taban": "Kauçuk",
+        "dış materyal": "Sentetik",
+        "menşei": "Endonezya",
+        "cinsiyet": "erkek",
+        "tip": "ayakkabı",
+        "fiyat": "2449 "
+    },
+    {
+        "marka": "Nike ",
+        "taban": "Kauçuk",
+        "dış materyal": "Sentetik",
+        "menşei": "Vietnam",
+        "cinsiyet": "erkek",
+        "tip": "ayakkabı",
+        "fiyat": "1849 "
+    },
+    {
+        "marka": "Nike ",
+        "taban": "Kauçuk",
+        "dış materyal": "Sentetik",
+        "menşei": "Vietnam",
+        "cinsiyet": "erkek",
+        "tip": "ayakkabı",
+        "fiyat": "1849 "
     },
     {
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
-        "dış materyal": "",
-        "menşei": null,
-        "cinsiyet": "kadın",
-        "tip": null,
-        "fiyat": "2999 "
-    },
-    {
-        "marka": "Harley Davidson ",
-        "taban": "Kauçuk",
-        "dış materyal": "",
-        "menşei": null,
-        "cinsiyet": "kadın",
-        "tip": null,
-        "fiyat": "2999 "
-    },
-    {
-        "marka": "Harley Davidson ",
-        "taban": "Kauçuk",
-        "dış materyal": "",
-        "menşei": null,
+        "dış materyal": "Deri",
+        "menşei": "Türkiye",
         "cinsiyet": "kadın",
         "tip": "bot",
-        "fiyat": "3999 "
+        "fiyat": "2999 "
     },
     {
         "marka": "Harley Davidson ",
         "taban": "Kauçuk",
-        "dış materyal": "",
-        "menşei": null,
+        "dış materyal": "Deri",
+        "menşei": "Türkiye",
         "cinsiyet": "kadın",
-        "tip": null,
+        "tip": "bot",
         "fiyat": "2999 "
     },
     {
@@ -495,57 +513,21 @@
         "fiyat": "2849 "
     },
     {
-        "marka": "Harley Davidson ",
+        "marka": "adidas ",
         "taban": "Kauçuk",
-        "dış materyal": "Deri",
-        "menşei": "Türkiye",
-        "cinsiyet": "kadın",
-        "tip": "bot",
-        "fiyat": "3999 "
+        "dış materyal": "",
+        "menşei": "Endonezya",
+        "cinsiyet": "erkek",
+        "tip": "ayakkabı",
+        "fiyat": "2169 "
     },
     {
-        "marka": "Harley Davidson ",
+        "marka": "adidas ",
         "taban": "Kauçuk",
-        "dış materyal": "Deri",
-        "menşei": "Türkiye",
-        "cinsiyet": "kadın",
-        "tip": "bot",
-        "fiyat": "3999 "
-    },
-    {
-        "marka": "New Balance ",
-        "taban": "Kauçuk",
-        "dış materyal": null,
-        "menşei": null,
-        "cinsiyet": "kadın",
-        "tip": null,
-        "fiyat": "1799 "
-    },
-    {
-        "marka": "New Balance ",
-        "taban": "Kauçuk",
-        "dış materyal": null,
-        "menşei": null,
-        "cinsiyet": "kadın",
-        "tip": null,
-        "fiyat": "1799 "
-    },
-    {
-        "marka": "Pierre Cardin ",
-        "taban": "EVA",
-        "dış materyal": "Tekstil",
-        "menşei": "Türkiye",
-        "cinsiyet": "kadın",
-        "tip": "bot",
-        "fiyat": "89990 "
-    },
-    {
-        "marka": "Pierre Cardin ",
-        "taban": "EVA",
-        "dış materyal": "Tekstil",
-        "menşei": "Türkiye",
-        "cinsiyet": "kadın",
-        "tip": "bot",
-        "fiyat": "89990 "
+        "dış materyal": "",
+        "menşei": "Endonezya",
+        "cinsiyet": "erkek",
+        "tip": "ayakkabı",
+        "fiyat": "2169 "
     }
 ]
