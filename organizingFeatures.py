@@ -69,5 +69,12 @@ def remove_duplicate_values(input_file, output_file):
     with open(output_file, 'w', encoding='utf-8') as file:
         json.dump(json_data, file, ensure_ascii=False, indent=4)
 
+def average():
+    with open('updated_data.json', 'r') as file:
+        data = pd.read_json(file)
+
+    # Eksik değerleri ortalama ile doldur
+    mean_price = data['fiyat'].mean()
+    data['fiyat'].fillna(mean_price, inplace=True)
 
 

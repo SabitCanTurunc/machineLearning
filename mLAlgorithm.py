@@ -9,6 +9,8 @@ from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.neural_network import MLPRegressor
 from sklearn.metrics import mean_squared_error
+import joblib
+import os
 
 # Verileri yükle
 data = pd.read_csv('one_hot_encoded_data.csv')
@@ -26,9 +28,23 @@ X_train = scaler.fit_transform(X_train)
 X_test = scaler.transform(X_test)
 
 # Farklı algoritmaları deneyerek model performansını değerlendir
-models = [LinearRegression(), SVR(), DecisionTreeRegressor(), RandomForestRegressor(), GradientBoostingRegressor(), KNeighborsRegressor(), MLPRegressor()]
-for model in models:
+models = {
+    'LinearRegression': LinearRegression(),
+    'SVR': SVR(),
+    'DecisionTreeRegressor': DecisionTreeRegressor(),
+    'RandomForestRegressor': RandomForestRegressor(),
+    'GradientBoostingRegressor': GradientBoostingRegressor(),
+    'KNeighborsRegressor': KNeighborsRegressor(),
+    'MLPRegressor': MLPRegressor()
+}
+# Klasörü oluştur
+os.makedirs('mLmodells', exist_ok=True)
+
+for model_name, model in models.items():
     model.fit(X_train, y_train)
     y_pred = model.predict(X_test)
     mse = mean_squared_error(y_test, y_pred)
-    print(model.__class__.__name__ + ' MSE:', mse)
+    print(model_name + ' MSE:', mse)
+
+    # Eğitilmiş modeli kaydet
+    joblib.dump(model, 'mLmodells/' + model_name + '_model.pkl')
