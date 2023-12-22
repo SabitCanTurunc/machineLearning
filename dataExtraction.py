@@ -8,7 +8,7 @@ def dataExtraction():
     headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
     all_product_links = []
 
-    for i in range(1, 2):
+    for i in range(1,40):
         link = base_link + str(i)
         r = requests.get(link, headers=headers)
         soup = BeautifulSoup(r.content, "html.parser")
@@ -28,8 +28,8 @@ def dataExtraction():
         brand = product_soup.find("span", class_="title_title__laaYP")
         brand = brand.text if brand else None
 
-        price = product_soup.find('div', {'class': 'product-price_checkPrice__NMY9e'}).strong.text
-        price = price.replace('TL', '').replace('.', '')  # fiyatta sadece rakamlar
+        price = product_soup.find('div', {'class': 'product-price_checkPrice__NMY9e'})
+        price = price.text.replace('TL', '').replace('.', '') if price else None  # fiyatta sadece rakamlar
 
         tech_specs = product_soup.find_all("span", class_="product-information-card_value__jGcTJ")
         tech_specs2 = product_soup.find_all("span", class_="title_subtitle__9USXk")

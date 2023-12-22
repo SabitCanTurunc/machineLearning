@@ -1,21 +1,773 @@
 marka,taban,dış materyal,menşei,cinsiyet,tip,fiyat
-Harley Davidson ,Kauçuk,Deri,Türkiye,erkek,bot,2799
-Harley Davidson ,Kauçuk,Nubuk,Türkiye,erkek,bot,2799
-Harley Davidson ,Kauçuk,Deri,,erkek,bot,2799
-Harley Davidson ,Kauçuk,Deri,Türkiye,kadın,bot,2799
-Harley Davidson ,Kauçuk,,,kadın,bot,2799
-Harley Davidson ,Kauçuk,Deri,,kadın,bot,2799
-Skechers ,Kauçuk,,Çin,erkek,ayakkabı,263912
-Skechers ,Poliüretan,Deri,Vietnam,erkek,ayakkabı,3499
-adidas ,Kauçuk,Sentetik,Endonezya,erkek,ayakkabı,2449
-Harley Davidson ,Kauçuk,Deri,Türkiye,erkek,bot,2499
-Harley Davidson ,Kauçuk,Deri,Türkiye,kadın,bot,2999
-New Balance ,Kauçuk,,,kadın,,1599
-Vans ,Kauçuk,Süet,Vietnam,kadın,ayakkabı,206940
-Harley Davidson ,Termoplastik,Deri,,kadın,,3749
-Hammer Jack ,Termoplastik,Deri,Türkiye,kadın,bot,1699
-Hammer Jack ,Termoplastik,Deri,Türkiye,kadın,bot,1249
-Skechers ,EVA,Tekstil,Çin,kadın,bot,2999
-Harley Davidson ,Kauçuk,Deri,Türkiye,kadın,,3749
-Skechers ,,Tekstil,Vietnam,erkek,ayakkabı,2549
-Harley Davidson ,Kauçuk,,,kadın,,2999
+Vans ,Kauçuk,Süet,Vietnam,kadın,ayakkabı,206940.0
+Harley Davidson ,Kauçuk,Deri,Türkiye,erkek,bot,2799.0
+Harley Davidson ,Kauçuk,Nubuk,Türkiye,erkek,bot,2799.0
+Harley Davidson ,Kauçuk,Deri,,erkek,bot,2799.0
+Harley Davidson ,Kauçuk,Deri,Türkiye,kadın,bot,2799.0
+Harley Davidson ,Kauçuk,,,kadın,bot,2799.0
+Harley Davidson ,Kauçuk,Deri,,kadın,bot,2799.0
+Skechers ,Kauçuk,,Çin,erkek,ayakkabı,263912.0
+Skechers ,Poliüretan,Deri,Vietnam,erkek,ayakkabı,3499.0
+adidas ,Kauçuk,Sentetik,Endonezya,erkek,ayakkabı,2449.0
+Harley Davidson ,Kauçuk,Deri,Türkiye,erkek,bot,2499.0
+Harley Davidson ,Kauçuk,Deri,Türkiye,kadın,bot,2999.0
+New Balance ,Kauçuk,,,kadın,,1599.0
+Harley Davidson ,Termoplastik,Deri,,kadın,,3749.0
+Skechers ,Poliüretan,Deri,,erkek,,2849.0
+Hammer Jack ,Termoplastik,Deri,Türkiye,kadın,bot,1699.0
+Hammer Jack ,Termoplastik,Deri,Türkiye,kadın,bot,1249.0
+Skechers ,EVA,Tekstil,Çin,kadın,bot,2999.0
+Harley Davidson ,Kauçuk,Deri,Türkiye,kadın,,3749.0
+Skechers ,,Tekstil,Vietnam,erkek,ayakkabı,2549.0
+F By Fabrika ,Termo,Deri,Türkiye,erkek,bot,48499.0
+F By Fabrika ,Termo,,Türkiye,erkek,bot,60999.0
+F By Fabrika ,Termo,Deri,Türkiye,erkek,bot,57499.0
+F By Fabrika ,,,Türkiye,erkek,bot,50999.0
+Harley Davidson ,Kauçuk,,,kadın,,2999.0
+Harley Davidson ,Kauçuk,,,kadın,bot,2999.0
+Skechers ,,,,kadın,,2549.0
+Pierre Cardin ,EVA,Tekstil,Türkiye,kadın,bot,89990.0
+Fabrika ,EVA,Deri,Türkiye,erkek,ayakkabı,1449.0
+Skechers ,Kauçuk,Tekstil,Çin,kadın,bot,3599.0
+Fabrika ,EVA,Deri,Türkiye,erkek,bot,1599.0
+Under Armour ,Kauçuk,Mesh,Vietnam,erkek,ayakkabı,2660.0
+Nike ,Termo,Sentetik,Hindistan,erkek,ayakkabı,2399.0
+Harley Davidson ,Kauçuk,Deri,Türkiye,erkek,bot,3249.0
+adidas ,Kauçuk,Microfiber,Myanmar,erkek,ayakkabı,1249.0
+adidas ,Kauçuk,,Vietnam,erkek,ayakkabı,2169.0
+Caterpillar ,Kauçuk,Nubuk,Türkiye,erkek,bot,2649.0
+Hammer Jack ,,,,erkek,bot,1649.0
+Nike ,Kauçuk,Sentetik,Vietnam,erkek,ayakkabı,1849.0
+Skechers ,Termoplastik,Tekstil,Çin,kadın,ayakkabı,2099.0
+Tommy Hilfiger ,Kauçuk,Süet,Portekiz,kadın,bot,4049.0
+adidas ,Kauçuk,Sentetik,Endonezya,kadın,ayakkabı,2299.0
+Reebok ,EVA,Mesh,Çin,erkek,ayakkabı,1025.0
+Reebok ,Kauçuk,Mesh,Vietnam,erkek,ayakkabı,2150.0
+Reebok ,Kauçuk,Mesh,Vietnam,erkek,ayakkabı,800.0
+Skechers ,EVA,,Çin,kadın,ayakkabı,2099.0
+Skechers ,Kauçuk,,Türkiye,kadın,ayakkabı,2099.0
+Nike ,Kauçuk,Sentetik,Endonezya,kadın,ayakkabı,229990.0
+Caterpillar ,,,,erkek,bot,2649.0
+Caterpillar ,Kauçuk,Deri,Türkiye,erkek,bot,2449.0
+adidas ,Kauçuk,Tekstil,Endonezya,erkek,ayakkabı,1699.0
+Discovery Expedition ,Poliüretan,,Türkiye,erkek,bot,1099.0
+Caterpillar ,Kauçuk,Deri,Türkiye,erkek,bot,1499.0
+Caterpillar ,,,Türkiye,erkek,bot,1499.0
+Fabrika Comfort ,Termoplastik,Deri,Türkiye,kadın,bot,1399.0
+Tommy Hilfiger ,Poliüretan,Deri,Portekiz,erkek,bot,4559.0
+Caterpillar ,Kauçuk,Deri,,kadın,bot,2649.0
+adidas ,Kauçuk,,,erkek,,1899.0
+Greyder ,Termoplastik,Deri,Türkiye,kadın,,429990.0
+Bulldozer ,Termoplastik,Deri,Türkiye,kadın,bot,1999.0
+Bulldozer ,Termoplastik,Deri,Türkiye,kadın,bot,1899.0
+Greyder ,,,Türkiye,kadın,bot,2899.0
+Greyder ,,,Türkiye,kadın,bot,329990.0
+F By Fabrika ,Termo,Deri,Türkiye,kadın,,94999.0
+Caterpillar ,Kauçuk,Deri,Türkiye,kadın,bot,2699.0
+adidas ,Kauçuk,,Endonezya,erkek,ayakkabı,2169.0
+Skechers ,Kauçuk,,Vietnam,erkek,bot,2549.0
+Hammer Jack ,Termo,Deri,Türkiye,kadın,bot,1999.0
+Skechers ,Kauçuk,,Türkiye,erkek,ayakkabı,171512.0
+Aeropostale ,Termoplastik,Tekstil,Türkiye,kadın,bot,77999.0
+F By Fabrika ,Termo,,Türkiye,erkek,bot,62499.0
+New Balance ,Kauçuk,Tekstil,Türkiye,erkek,ayakkabı,1499.0
+Fabrika ,Termoplastik,Deri,Türkiye,erkek,,1299.0
+adidas ,Kauçuk,Sentetik,Endonezya,kadın,ayakkabı,1649.0
+Fabrika ,EVA,Deri,Türkiye,erkek,bot,1549.0
+adidas ,Kauçuk,,Endonezya,erkek,ayakkabı,1699.0
+Nike ,Kauçuk,,Endonezya,,ayakkabı,134990.0
+Nike ,Kauçuk,Sentetik,Endonezya,erkek,ayakkabı,189990.0
+Nike ,Kauçuk,Sentetik,Endonezya,,ayakkabı,134990.0
+New Balance ,Kauçuk,,Türkiye,erkek,ayakkabı,2399.0
+Nike ,Kauçuk,Sentetik,Vietnam,,ayakkabı,179990.0
+Skechers ,Kauçuk,Tekstil,Türkiye,kadın,ayakkabı,272720.0
+adidas ,Kauçuk,Sentetik,Endonezya,erkek,ayakkabı,1859.0
+Harley Davidson ,Kauçuk,Deri,Türkiye,erkek,bot,2649.0
+adidas ,Kauçuk,Deri,Vietnam,erkek,ayakkabı,2329.0
+adidas ,Kauçuk,Tekstil,Endonezya,erkek,ayakkabı,1859.0
+Nike ,Kauçuk,Sentetik,Hindistan,erkek,ayakkabı,194990.0
+adidas ,Kauçuk,Sentetik,Endonezya,erkek,ayakkabı,1449.0
+Reebok ,Kauçuk,Mesh,Vietnam,kadın,ayakkabı,800.0
+Under Armour ,Kauçuk,Mesh,Vietnam,erkek,ayakkabı,1849.0
+Discovery Expedition ,Faylon,,Türkiye,erkek,bot,1299.0
+Discovery Expedition ,Faylon,,Türkiye,erkek,bot,1099.0
+Skechers ,Kauçuk,Tekstil,Vietnam,erkek,ayakkabı,3549.0
+Nike ,Kauçuk,,Endonezya,kadın,ayakkabı,2700.0
+Caterpillar ,Kauçuk,Deri,Kamboçya,erkek,bot,3749.0
+adidas ,Kauçuk,Sentetik,Vietnam,erkek,ayakkabı,3549.0
+Nike ,Kauçuk,Tekstil,Endonezya,erkek,ayakkabı,209990.0
+Skechers ,Kauçuk,Tekstil,Çin,erkek,ayakkabı,2349.0
+Calvin Klein ,Kauçuk,Polyester,Çin,kadın,bot,3299.0
+Greyder ,Kauçuk,Deri,Türkiye,kadın,bot,329990.0
+New Balance ,Kauçuk,,Türkiye,erkek,ayakkabı,2699.0
+Nike ,Kauçuk,Tekstil,Vietnam,kadın,ayakkabı,269990.0
+New Balance ,Kauçuk,Deri,Türkiye,kadın,ayakkabı,2399.0
+Hammer Jack ,Termo,Deri,,erkek,ayakkabı,1449.0
+Nike ,Kauçuk,,Endonezya,kadın,ayakkabı,1849.0
+adidas ,Kauçuk,Tekstil,Vietnam,erkek,ayakkabı,3099.0
+adidas ,Kauçuk,Sentetik,Endonezya,erkek,ayakkabı,3729.0
+Pierre Cardin ,Poliüretan,Deri,Türkiye,kadın,ayakkabı,70995.0
+Under Armour ,,,Vietnam,erkek,ayakkabı,2299.0
+adidas ,Kauçuk,Deri,Endonezya,erkek,ayakkabı,3299.0
+adidas ,Kauçuk,Tekstil,Vietnam,erkek,ayakkabı,3549.0
+Clarks ,Sentetik,Deri,,erkek,ayakkabı,3099.0
+adidas ,Kauçuk,Tekstil,Endonezya,erkek,ayakkabı,3419.0
+adidas ,Kauçuk,Tekstil,Endonezya,erkek,ayakkabı,4029.0
+adidas ,Kauçuk,Tekstil,Vietnam,erkek,ayakkabı,4029.0
+Fabrika ,EVA,Tekstil,Türkiye,kadın,bot,95995.0
+Nike ,Kauçuk,Sentetik,,erkek,,194990.0
+Discovery Expedition ,Termo,,Türkiye,erkek,bot,76995.0
+Discovery Expedition ,Termo,,Türkiye,erkek,bot,95995.0
+Fabrika ,Neolit,Deri,Türkiye,kadın,,1549.0
+Fabrika ,,Deri,Türkiye,kadın,,1449.0
+Fabrika ,,,,kadın,bot,99995.0
+Fabrika ,Termo,Deri,Türkiye,kadın,bot,99995.0
+adidas ,Kauçuk,Tekstil,Endonezya,,ayakkabı,2649.0
+New Balance ,Kauçuk,File,,erkek,,1799.0
+Skechers ,Kauçuk,,Türkiye,kadın,ayakkabı,1899.0
+Nike ,Kauçuk,Tekstil,Vietnam,erkek,ayakkabı,179990.0
+Tommy Hilfiger ,Kauçuk,Süet,Portekiz,kadın,bot,4559.0
+Under Armour ,Kauçuk,,Vietnam,erkek,ayakkabı,2660.0
+Skechers ,Kauçuk,Tekstil,Çin,erkek,,2649.0
+Nike ,Kauçuk,Sentetik,Vietnam,erkek,ayakkabı,1099.0
+Greyder ,Poliüretan,Tekstil,Türkiye,erkek,bot,3199.0
+Greyder ,Poliüretan,Tekstil,Türkiye,erkek,bot,399990.0
+Greyder ,Poliüretan,Tekstil,Türkiye,erkek,bot,3099.0
+Skechers ,Kauçuk,Sentetik,Türkiye,erkek,ayakkabı,2099.0
+Discovery Expedition ,Termo,,Türkiye,erkek,bot,82995.0
+,,,,,,
+Tommy Hilfiger ,Poliüretan,Deri,Çin,erkek,,2499.0
+Caterpillar ,Kauçuk,Deri,Bangladeş,kadın,bot,3749.0
+Caterpillar ,Kauçuk,Deri,Türkiye,kadın,bot,2449.0
+Camper ,EVA,Deri,Vietnam,erkek,ayakkabı,5499.0
+Camper ,EVA,Deri,Vietnam,erkek,ayakkabı,5799.0
+Tommy Hilfiger ,Kauçuk,Deri,Portekiz,kadın,bot,4799.0
+Skechers ,Kauçuk,Sentetik,Türkiye,kadın,ayakkabı,1949.0
+Fabrika Comfort ,Termoplastik,,Türkiye,erkek,ayakkabı,1549.0
+Hammer Jack ,Termo,Deri,Türkiye,erkek,ayakkabı,1449.0
+Skechers ,,,,kadın,ayakkabı,2549.0
+adidas ,Kauçuk,Tekstil,Endonezya,,ayakkabı,3699.0
+Fabrika ,EVA,Deri,Türkiye,erkek,ayakkabı,1249.0
+New Balance ,Kauçuk,Süet,Türkiye,kadın,ayakkabı,2399.0
+Skechers ,Kauçuk,Sentetik,Çin,kadın,ayakkabı,3599.0
+Greyder ,Poliüretan,Tekstil,Türkiye,erkek,bot,349990.0
+Greyder ,Poliüretan,Tekstil,Türkiye,erkek,bot,2799.0
+Skechers ,EVA,Tekstil,,erkek,ayakkabı,3099.0
+Fabrika ,Kauçuk,,Türkiye,erkek,ayakkabı,1149.0
+New Balance ,Kauçuk,Süet,Türkiye,erkek,ayakkabı,2099.0
+F By Fabrika ,Termo,Deri,Türkiye,kadın,bot,65999.0
+Fabrika ,Poli,Deri,Türkiye,kadın,bot,99995.0
+Igor ,PVC,PVC,,,bot,82995.0
+Fabrika ,Termo,,Türkiye,kadın,,99995.0
+Reebok ,Kauçuk,Mesh,Vietnam,erkek,ayakkabı,1300.0
+Skechers ,Poliüretan,Deri,Çin,erkek,ayakkabı,2849.0
+Nike ,Kauçuk,,Endonezya,kadın,ayakkabı,194990.0
+Fabrika Comfort ,Termo,Deri,Türkiye,erkek,bot,1699.0
+Skechers ,Poliüretan,Deri,Vietnam,erkek,,3449.0
+Skechers ,Kauçuk,Deri,Türkiye,erkek,ayakkabı,1949.0
+Skechers ,Kauçuk,Tekstil,Vietnam,kadın,bot,3599.0
+F By Fabrika ,Poli,,Türkiye,erkek,bot,85999.0
+Tommy Hilfiger ,Kauçuk,,Portekiz,kadın,bot,5129.0
+Tommy Hilfiger ,Kauçuk,Deri,Portekiz,kadın,bot,4899.0
+Skechers ,EVA,,Çin,kadın,ayakkabı,1999.0
+adidas ,,Deri,,,ayakkabı,3299.0
+Nike ,Kauçuk,Tekstil,Vietnam,erkek,ayakkabı,2949.0
+Skechers ,Kauçuk,,Çin,kadın,ayakkabı,2549.0
+Tommy Hilfiger ,Poliüretan,,Vietnam,erkek,,2849.0
+Kappa ,,Sentetik,Çin,kadın,ayakkabı,149950.0
+adidas ,Kauçuk,Sentetik,Endonezya,kadın,ayakkabı,1859.0
+Fabrika ,EVA,Deri,Türkiye,erkek,bot,1349.0
+Kappa ,,Sentetik,Türkiye,kadın,ayakkabı,104930.0
+Skechers ,Kauçuk,,Türkiye,erkek,ayakkabı,1999.0
+Camper ,EVA,Tekstil,Vietnam,erkek,bot,4799.0
+Camper ,EVA,Deri,,erkek,bot,5999.0
+Nike ,Kauçuk,,Hindistan,kadın,ayakkabı,2500.0
+Skechers ,EVA,,Vietnam,kadın,ayakkabı,2499.0
+Nike ,Kauçuk,Sentetik,Hindistan,,ayakkabı,194990.0
+Camper ,EVA,Deri,Vietnam,erkek,bot,5799.0
+U.S. Polo Assn. ,Termoplastik,Deri,Türkiye,kadın,bot,119999.0
+Skechers ,kauçuk,Tekstil,,erkek,ayakkabı,3149.0
+Vans ,Kauçuk,Kanvas,Çin,,ayakkabı,2399.0
+Skechers ,,,,erkek,ayakkabı,3949.0
+Nike ,Kauçuk,,Vietnam,kadın,bot,3349.0
+F By Fabrika ,,,Türkiye,kadın,,60999.0
+Nike ,Kauçuk,Deri,Vietnam,kadın,bot,3800.0
+Benetton ,PVC,PVC,Türkiye,kadın,,45499.0
+adidas ,Kauçuk,Tekstil,Kamboçya,erkek,ayakkabı,1859.0
+adidas ,Kauçuk,Tekstil,Vietnam,,ayakkabı,2649.0
+adidas ,Kauçuk,Sentetik,Vietnam,erkek,ayakkabı,1649.0
+Vans ,Kauçuk,Kanvas,Vietnam,kadın,ayakkabı,2549.0
+New Balance ,Kauçuk,,Türkiye,kadın,ayakkabı,1799.0
+New Balance ,Kauçuk,,Türkiye,kadın,ayakkabı,1499.0
+Camper ,EVA,Deri,Kamboçya,erkek,ayakkabı,4799.0
+Fabrika ,EVA,,Türkiye,erkek,ayakkabı,1249.0
+Skechers ,Kauçuk,,Türkiye,kadın,ayakkabı,2449.0
+Skechers ,kauçuk,,Vietnam,erkek,ayakkabı,2599.0
+Camper ,EVA,Deri,Vietnam,erkek,ayakkabı,4799.0
+Skechers ,Poliüretan,Deri,Çin,erkek,,2649.0
+Harley Davidson ,Kauçuk,Deri,Türkiye,kadın,bot,3249.0
+Nike ,Kauçuk,,Vietnam,erkek,ayakkabı,1399.0
+Calvin Klein ,Poliüretan,,Çin,erkek,,2849.0
+Calvin Klein ,Poliüretan,Tekstil,Çin,erkek,,2499.0
+Nike ,Kauçuk,,Endonezya,erkek,ayakkabı,1299.0
+Superga ,Kauçuk,Tekstil,Vietnam,kadın,,230930.0
+Hummel ,Poliüretan,Tekstil,Türkiye,erkek,,1249.0
+Asics ,Kauçuk,Tekstil,Kamboçya,kadın,ayakkabı,1749.0
+Nike ,Kauçuk,Sentetik,Vietnam,,ayakkabı,1449.0
+Lumberjack ,Termoplastik,Tekstil,Çin,kadın,,82999.0
+Armani Exchange ,,,Vietnam,kadın,,7099.0
+Aeropostale ,Termo,Tekstil,Türkiye,kadın,,9999.0
+Aeropostale ,Termo,,Türkiye,kadın,,13995.0
+Ugg ,EVA,Süet,Vietnam,kadın,bot,999990.0
+Ugg ,,,,,bot,999990.0
+Nike ,Kauçuk,,Vietnam,,ayakkabı,1199.0
+Camper ,EVA,Tekstil,Vietnam,erkek,ayakkabı,254950.0
+Fabrika ,Kauçuk,Deri,Türkiye,erkek,ayakkabı,1099.0
+Reebok ,Kauçuk,Poliüretan,Çin,,ayakkabı,89999.0
+Caterpillar ,Kauçuk,Deri,Çin,erkek,ayakkabı,2799.0
+Salomon ,,Sentetik,Vietnam,erkek,ayakkabı,3699.0
+adidas ,Kauçuk,,Çin,,ayakkabı,1999.0
+Tommy Hilfiger ,Poliüretan,Deri,Çin,erkek,,2299.0
+Hammer Jack ,kauçuk,Deri,Türkiye,erkek,,67995.0
+Under Armour ,Kauçuk,,Vietnam,erkek,ayakkabı,3499.0
+Nike ,Kauçuk,Deri,Vietnam,,ayakkabı,2299.0
+Nike ,,File,Endonezya,kadın,ayakkabı,1699.0
+Vans ,Kauçuk,Kanvas,Kamboçya,,ayakkabı,2549.0
+New Balance ,Kauçuk,,Türkiye,kadın,ayakkabı,1699.0
+Fabrika ,EVA,Deri,Türkiye,erkek,ayakkabı,1499.0
+Fabrika ,Kauçuk,,Türkiye,erkek,bot,1249.0
+adidas ,Kauçuk,Tekstil,Endonezya,kadın,ayakkabı,1499.0
+Nike ,Kauçuk,Deri,Vietnam,erkek,ayakkabı,2099.0
+Reebok ,Kauçuk,Mesh,Vietnam,erkek,ayakkabı,950.0
+Skechers ,EVA,Tekstil,Çin,kadın,,3399.0
+Caterpillar ,Kauçuk,Tekstil,Çin,erkek,bot,2799.0
+Caterpillar ,Kauçuk,Deri,Çin,erkek,bot,2799.0
+Skechers ,,Tekstil,Çin,kadın,ayakkabı,2649.0
+Caterpillar ,Kauçuk,Deri,Türkiye,,bot,1699.0
+Benetton ,Termo,Deri,Türkiye,,ayakkabı,52995.0
+Hush Puppies ,Sentetik,Deri,Türkiye,erkek,bot,104499.0
+Nike ,Kauçuk,Sentetik,Çin,kadın,ayakkabı,459990.0
+Nike ,Kauçuk,Tekstil,Endonezya,erkek,ayakkabı,1999.0
+Caterpillar ,Kauçuk,Nubuk,Türkiye,kadın,bot,2649.0
+Discovery Expedition ,,,Türkiye,erkek,ayakkabı,1049.0
+New Balance ,,,Türkiye,erkek,ayakkabı,1499.0
+Skechers ,,,Vietnam,erkek,bot,2449.0
+Keen ,Kauçuk,Tekstil,Tayland,kadın,ayakkabı,3499.0
+adidas ,Kauçuk,Sentetik,Vietnam,,ayakkabı,4029.0
+Nike ,Kauçuk,Sentetik,,erkek,ayakkabı,2549.0
+Discovery Expedition ,,,,erkek,bot,73995.0
+adidas ,Kauçuk,Tekstil,Vietnam,erkek,ayakkabı,1899.0
+Bulldozer ,,Deri,Türkiye,erkek,bot,2099.0
+Hammer Jack ,Termo,Deri,Türkiye,erkek,bot,1449.0
+Hammer Jack ,Kauçuk,Deri,Türkiye,kadın,bot,1699.0
+Nike ,Kauçuk,,Endonezya,erkek,ayakkabı,1599.0
+Asics ,,Sentetik,Vietnam,erkek,ayakkabı,2099.0
+Skechers ,EVA,,Çin,kadın,ayakkabı,3099.0
+Caterpillar ,Kauçuk,Deri,Türkiye,erkek,bot,1449.0
+adidas ,Kauçuk,Sentetik,Endonezya,kadın,ayakkabı,3299.0
+Hammer Jack ,Termo,Deri,Türkiye,erkek,ayakkabı,1499.0
+Bulldozer ,Poliüretan,Deri,Türkiye,erkek,bot,2199.0
+Vans ,Kauçuk,PU,Vietnam,erkek,ayakkabı,316740.0
+Under Armour ,Kauçuk,,Vietnam,erkek,ayakkabı,3199.0
+Calvin Klein ,Poliüretan,,Portekiz,erkek,bot,4369.0
+Fabrika ,TPU,,Türkiye,kadın,,1799.0
+Fabrika ,Termo,,Türkiye,kadın,,1599.0
+Skechers ,EVA,,Vietnam,erkek,ayakkabı,2499.0
+Nike ,Kauçuk,Sentetik,Endonezya,kadın,ayakkabı,1849.0
+Aeropostale ,Termoplastik,Deri,Türkiye,kadın,bot,1699.0
+Nike ,Kauçuk,Deri,Endonezya,erkek,ayakkabı,1149.0
+Tommy Hilfiger ,Kauçuk,Sentetik,Portekiz,kadın,bot,4559.0
+Skechers ,EVA,,Çin,erkek,ayakkabı,2099.0
+Bulldozer ,Poliüretan,Deri,Türkiye,erkek,bot,2099.0
+Bulldozer ,Poliüretan,Deri,Türkiye,erkek,bot,1849.0
+Bulldozer ,Poliüretan,Deri,Türkiye,erkek,bot,1949.0
+Nike ,,,Türkiye,erkek,ayakkabı,2949.0
+adidas ,Kauçuk,Sentetik,Endonezya,erkek,ayakkabı,2169.0
+F By Fabrika ,Termo,,Türkiye,erkek,bot,89999.0
+Nike ,Kauçuk,,Vietnam,erkek,ayakkabı,1199.0
+Caterpillar ,,Nubuk,,erkek,bot,2649.0
+Nike ,Kauçuk,Deri,Hindistan,kadın,ayakkabı,2399.0
+Tommy Hilfiger ,Kauçuk,,Portekiz,kadın,bot,5419.0
+Nike ,,Deri,Vietnam,kadın,ayakkabı,2099.0
+Caterpillar ,Kauçuk,Deri,,kadın,bot,2699.0
+Timberland ,Kauçuk,Tekstil,Kamboçya,erkek,bot,4999.0
+Camper ,EVA,Tekstil,Vietnam,erkek,bot,5999.0
+Aeropostale ,Termoplastik,Süet,Türkiye,kadın,,109999.0
+Calvin Klein ,Poliüretan,,Çin,erkek,,4279.0
+Vince Camuto ,TPU,Deri,Türkiye,kadın,,4799.0
+Ecco ,Poliüretan,Deri,Çin,erkek,ayakkabı,4149.0
+Calvin Klein ,Kauçuk,Deri,Çin,kadın,bot,5419.0
+Nike ,,,Çin,erkek,ayakkabı,3599.0
+Nike ,,,,kadın,ayakkabı,3149.0
+Ecco ,Poliüretan,Deri,Tayland,erkek,ayakkabı,4849.0
+Skechers ,Kauçuk,Tekstil,Vietnam,erkek,bot,3799.0
+Alberto Guardiani ,Poliüretan,Süet,Çin,erkek,,3999.0
+Alberto Guardiani ,Poliüretan,Süet,Çin,erkek,,3099.0
+Clarks ,Sentetik,Deri,,,ayakkabı,3549.0
+Greyder ,Poliüretan,Deri,Türkiye,erkek,ayakkabı,165999.0
+Fabrika ,EVA,,Türkiye,kadın,bot,95995.0
+Calvin Klein ,Poliüretan,Tekstil,Çin,erkek,,3139.0
+Calvin Klein ,Poliüretan,Deri,Çin,erkek,,2499.0
+Kappa ,,Sentetik,Çin,erkek,ayakkabı,139950.0
+Hammer Jack ,Faylon,,Türkiye,erkek,bot,1549.0
+Fabrika Comfort ,EVA,Deri,Türkiye,erkek,bot,1399.0
+Fabrika Comfort ,EVA,Deri,Türkiye,erkek,bot,1649.0
+Hummel ,,,,erkek,ayakkabı,1549.0
+Columbia ,,Polyester,Çin,erkek,ayakkabı,844990.0
+Keen ,Kauçuk,Tekstil,Tayland,kadın,ayakkabı,4549.0
+New Balance ,Kauçuk,,Türkiye,erkek,ayakkabı,1599.0
+Keen ,Kauçuk,Tekstil,Tayland,kadın,ayakkabı,5249.0
+adidas ,,,Vietnam,erkek,ayakkabı,2849.0
+Igor ,PVC,PVC,İspanya,,,73995.0
+Igor ,PVC,PVC,İspanya,erkek,,82995.0
+Skechers ,Kauçuk,,Türkiye,erkek,ayakkabı,2399.0
+adidas ,Kauçuk,Tekstil,Endonezya,erkek,ayakkabı,1199.0
+Fabrika ,Kauçuk,,Türkiye,erkek,ayakkabı,95995.0
+F By Fabrika ,TPU,Deri,Türkiye,kadın,bot,62499.0
+Puma ,EVA,Süet,,kadın,,1122.0
+F By Fabrika ,Termo,Deri,Türkiye,erkek,,83999.0
+F By Fabrika ,Termo,Deri,Türkiye,erkek,,74999.0
+Nike ,Kauçuk,Tekstil,Vietnam,erkek,ayakkabı,2099.0
+Discovery Expedition ,Termo,,Türkiye,erkek,ayakkabı,76995.0
+Hummel ,,,Türkiye,erkek,ayakkabı,90995.0
+Hummel ,,,Türkiye,erkek,ayakkabı,1099.0
+Skechers ,EVA,Tekstil,Çin,erkek,ayakkabı,3149.0
+Ecco ,Poliüretan,Deri,Slovakya,erkek,ayakkabı,3849.0
+Helly Hansen ,Kauçuk,,Vietnam,erkek,bot,4149.0
+Hammer Jack ,,,,erkek,bot,1749.0
+Hammer Jack ,Termo,,Türkiye,erkek,bot,1899.0
+Nike ,Kauçuk,Tekstil,Endonezya,erkek,ayakkabı,194990.0
+Nike ,Kauçuk,Sentetik,Endonezya,,ayakkabı,1649.0
+Nike ,Kauçuk,Sentetik,Endonezya,erkek,ayakkabı,1299.0
+The North Face ,Kauçuk,Tekstil,Vietnam,erkek,ayakkabı,6599.0
+Ugg ,EVA,Süet,Vietnam,erkek,bot,999990.0
+adidas ,Kauçuk,,Çin,erkek,ayakkabı,194995.0
+Skechers ,Kauçuk,Sentetik,Türkiye,kadın,ayakkabı,2299.0
+Greyder ,Poliüretan,Tekstil,Türkiye,erkek,ayakkabı,2999.0
+Greyder ,Poliüretan,Tekstil,Türkiye,erkek,ayakkabı,369990.0
+adidas ,Kauçuk,Sentetik,Endonezya,kadın,ayakkabı,1549.0
+Hammer Jack ,Termo,,Türkiye,erkek,ayakkabı,1649.0
+Hammer Jack ,Termo,,Türkiye,erkek,ayakkabı,1449.0
+Reebok ,Kauçuk,,Çin,erkek,ayakkabı,89999.0
+Puma ,Kauçuk,Deri,Çin,kadın,ayakkabı,163680.0
+Nike ,Kauçuk,Sentetik,Hindistan,,ayakkabı,209990.0
+Salomon ,,Sentetik,Kamboçya,,,4999.0
+Salomon ,,Sentetik,Kamboçya,erkek,ayakkabı,4999.0
+Nike ,Kauçuk,,,erkek,ayakkabı,239990.0
+Under Armour ,Kauçuk,Tekstil,Vietnam,erkek,ayakkabı,2299.0
+Cotton Bar ,Termoplastik,Deri,Türkiye,kadın,bot,84999.0
+Skechers ,Tekstil,,Çin,erkek,ayakkabı,2649.0
+Nike ,Kauçuk,Tekstil,Vietnam,erkek,ayakkabı,259990.0
+Nike ,Kauçuk,Tekstil,Çin,kadın,ayakkabı,4510.0
+F By Fabrika ,Termo,PVC,Türkiye,kadın,,1199.0
+F By Fabrika ,Termo,PVC,Türkiye,kadın,,65999.0
+Nike ,Kauçuk,Tekstil,Tayvan,erkek,ayakkabı,229990.0
+Hammer Jack ,Kauçuk,Naylon,Türkiye,erkek,bot,76995.0
+Nike ,Kauçuk,Tekstil,Hindistan,erkek,ayakkabı,239990.0
+Fabrika ,Termo,Deri,Türkiye,kadın,bot,90995.0
+Skechers ,EVA,Tekstil,Çin,kadın,ayakkabı,1899.0
+adidas ,Kauçuk,Tekstil,Vietnam,kadın,ayakkabı,4299.0
+Puma ,Kauçuk,Deri,Vietnam,erkek,ayakkabı,221650.0
+Hammer Jack ,,,,erkek,bot,1699.0
+Caterpillar ,Kauçuk,Deri,,,bot,1699.0
+Fabrika ,Poli,Deri,Türkiye,erkek,ayakkabı,95995.0
+Kappa ,Kauçuk,Tekstil,Türkiye,kadın,ayakkabı,139930.0
+Guess ,Poliüretan,,Endonezya,erkek,,3349.0
+adidas ,Kauçuk,Tekstil,Endonezya,kadın,ayakkabı,1699.0
+Greyder ,Kauçuk,Deri,Türkiye,kadın,bot,349990.0
+Greyder ,Kauçuk,Deri,Türkiye,kadın,bot,3099.0
+Skechers ,EVA,,Çin,kadın,ayakkabı,307912.0
+Greyder ,Termoplastik,Deri,Türkiye,kadın,bot,3099.0
+Greyder ,Termoplastik,Deri,Türkiye,kadın,bot,349990.0
+Keen ,Kauçuk,Poliüretan,Almanya,erkek,ayakkabı,3849.0
+Aeropostale ,Termoplastik,Tekstil,Türkiye,kadın,bot,68999.0
+Aeropostale ,Termoplastik,Tekstil,Türkiye,kadın,bot,75499.0
+Tommy Hilfiger ,Poliüretan,Deri,Portekiz,erkek,bot,5299.0
+Merrell ,,File,Çin,erkek,bot,1999.0
+Nike ,Termo,Sentetik,Endonezya,kadın,ayakkabı,229990.0
+adidas ,Kauçuk,Tekstil,Endonezya,erkek,ayakkabı,2849.0
+Skechers ,Kauçuk,Sentetik,Vietnam,,ayakkabı,2499.0
+Hammer Jack ,,,,erkek,ayakkabı,1399.0
+Discovery Expedition ,Poliüretan,,Türkiye,erkek,ayakkabı,1299.0
+Discovery Expedition ,Poliüretan,,Türkiye,erkek,ayakkabı,1099.0
+Jack Wolfskin ,,,Kamboçya,erkek,ayakkabı,4299.0
+Under Armour ,EVA,,Vietnam,erkek,ayakkabı,1999.0
+Aeropostale ,,,,kadın,,45499.0
+Ecco ,Poliüretan,Deri,Portekiz,erkek,ayakkabı,5199.0
+Ecco ,Poliüretan,Deri,Portekiz,erkek,ayakkabı,4549.0
+Under Armour ,Kauçuk,Mesh,Endonezya,erkek,ayakkabı,360499.0
+Calvin Klein ,Kauçuk,Deri,Çin,kadın,,3449.0
+Fabrika ,Termoplastik,Deri,Türkiye,erkek,,1549.0
+adidas ,Kauçuk,Tekstil,Endonezya,,ayakkabı,3599.0
+Asics ,,Sentetik,Kamboçya,,ayakkabı,3549.0
+Hush Puppies ,Sentetik,Süet,Türkiye,erkek,bot,124499.0
+Puma ,Kauçuk,,Çin,erkek,ayakkabı,255750.0
+Hush Puppies ,Termoplastik,Deri,Türkiye,kadın,,143999.0
+Greyder ,Poliüretan,Deri,Türkiye,erkek,ayakkabı,2899.0
+Greyder ,Poliüretan,Deri,Türkiye,erkek,ayakkabı,2749.0
+Hush Puppies ,Sentetik,Deri,Türkiye,erkek,bot,123999.0
+Hush Puppies ,Sentetik,Deri,Türkiye,erkek,bot,124999.0
+Asics ,Kauçuk,Sentetik,Vietnam,erkek,ayakkabı,1649.0
+Vans ,Kauçuk,Süet,Çin,kadın,ayakkabı,206940.0
+Greyder ,Poliüretan,Tekstil,Türkiye,erkek,bot,329990.0
+Fabrika ,EVA,,Türkiye,erkek,bot,1499.0
+New Balance ,Kauçuk,,Endonezya,erkek,ayakkabı,2149.0
+Hammer Jack ,,,Türkiye,erkek,bot,1699.0
+Versace Jeans Couture ,Phylon,,Çin,erkek,,8999.0
+Nike ,Kauçuk,Sentetik,,erkek,ayakkabı,239990.0
+Caterpillar ,Kauçuk,Deri,Türkiye,,bot,1449.0
+F By Fabrika ,Termo,Deri,Türkiye,kadın,ayakkabı,46999.0
+F By Fabrika ,Termo,,Türkiye,kadın,ayakkabı,46999.0
+adidas ,Kauçuk,Tekstil,Çin,erkek,ayakkabı,2049.0
+F By Fabrika ,Kauçuk,Deri,Türkiye,erkek,bot,118499.0
+Bulldozer ,Poliüretan,Deri,Türkiye,erkek,bot,1999.0
+Greyder ,Poliüretan,Tekstil,Türkiye,erkek,bot,369990.0
+Skechers ,Kauçuk,Tekstil,Vietnam,erkek,,3499.0
+Discovery Expedition ,Termo,,Türkiye,erkek,bot,86995.0
+Hummel ,Phylon,,,kadın,ayakkabı,86995.0
+New Balance ,Kauçuk,,Türkiye,erkek,ayakkabı,1799.0
+adidas ,Kauçuk,Tekstil,Çin,erkek,ayakkabı,5499.0
+adidas ,Kauçuk,Deri,Vietnam,erkek,ayakkabı,2799.0
+Aeropostale ,Termoplastik,,Türkiye,kadın,bot,1699.0
+Aeropostale ,Termoplastik,,Türkiye,kadın,bot,90995.0
+Fabrika ,Mantar,,Türkiye,kadın,bot,1999.0
+Fabrika ,Mantar,,Türkiye,kadın,bot,1649.0
+Salomon ,,Sentetik,Vietnam,erkek,ayakkabı,6799.0
+Guess ,Kauçuk,,Çin,kadın,bot,4149.0
+Dunlop ,Kauçuk,Tekstil,Türkiye,,ayakkabı,108499.0
+Skechers ,Tekstil,,Çin,erkek,ayakkabı,2349.0
+Skechers ,Kauçuk,Tekstil,Çin,erkek,ayakkabı,2649.0
+Greyder ,Poliüretan,Deri,Türkiye,erkek,bot,369990.0
+Greyder ,Poliüretan,Deri,Türkiye,erkek,bot,2999.0
+F By Fabrika ,Termo,,Türkiye,erkek,bot,85999.0
+Calvin Klein ,Poliüretan,,Çin,erkek,bot,4559.0
+Skechers ,EVA,Tekstil,Vietnam,erkek,ayakkabı,3149.0
+Kappa ,Kauçuk,Sentetik,Türkiye,kadın,ayakkabı,307930.0
+Aeropostale ,Termoplastik,,Türkiye,kadın,bot,1849.0
+Greyder ,Kauçuk,Tekstil,Türkiye,kadın,ayakkabı,2149.0
+Ugg ,,,,kadın,bot,899990.0
+New Balance ,EVA,Tekstil,Türkiye,kadın,ayakkabı,1699.0
+Tommy Hilfiger ,Kauçuk,,Çin,kadın,,3139.0
+F By Fabrika ,Poliüretan,Deri,Türkiye,kadın,bot,80999.0
+F By Fabrika ,Poliüretan,Deri,Türkiye,kadın,bot,91999.0
+New Balance ,Kauçuk,Tekstil,Endonezya,erkek,ayakkabı,3249.0
+Timberland ,EVA,Nubuk,Bangladeş,erkek,bot,5999.0
+Discovery Expedition ,Termo,,Türkiye,erkek,bot,90995.0
+Discovery Expedition ,,,,erkek,bot,90995.0
+Caterpillar ,Kauçuk,Tekstil,Bangladeş,kadın,bot,3749.0
+Caterpillar ,Kauçuk,Deri,Türkiye,kadın,bot,2999.0
+Aeropostale ,Poliüretan/TPU,Tekstil,Türkiye,kadın,,141499.0
+Aeropostale ,Poliüretan/TPU,Tekstil,Türkiye,kadın,,87499.0
+Skechers ,Kauçuk,,Türkiye,erkek,ayakkabı,2099.0
+Lumberjack ,Termoplastik,,Çin,kadın,bot,179999.0
+adidas ,Kauçuk,Deri,Vietnam,erkek,ayakkabı,3419.0
+Reebok ,Kauçuk,Mesh,Vietnam,erkek,ayakkabı,195999.0
+Timberland ,,Deri,,erkek,ayakkabı,6299.0
+Skechers ,EVA,Tekstil,Vietnam,erkek,ayakkabı,3099.0
+Nike ,,Deri,Endonezya,erkek,ayakkabı,209990.0
+Tommy Hilfiger ,Poliüretan,,Çin,erkek,,2199.0
+F By Fabrika ,TPU,Tekstil,Türkiye,kadın,,89499.0
+Greyder ,Poliüretan,Tekstil,Türkiye,erkek,bot,3649.0
+Hammer Jack ,Kauçuk,,Türkiye,erkek,ayakkabı,1449.0
+Hammer Jack ,Termo,,Türkiye,erkek,ayakkabı,1249.0
+Timberland ,Kauçuk,Tekstil,Vietnam,erkek,,5499.0
+Alberto Guardiani ,Poliüretan,Süet,Çin,erkek,,4999.0
+Alberto Guardiani ,Poliüretan,Süet,Çin,erkek,,4399.0
+Alberto Guardiani ,Poliüretan,Deri,Çin,erkek,,4999.0
+Greyder ,Poliüretan,Tekstil,Türkiye,erkek,bot,3149.0
+F By Fabrika ,TPU,Süet,Türkiye,kadın,,87999.0
+Nike ,,,,,ayakkabı,239990.0
+adidas ,Kauçuk,Deri,Myanmar,erkek,ayakkabı,2749.0
+Lumberjack ,Termoplastik,Tekstil,Çin,kadın,,61499.0
+Harley Davidson ,Termoplastik,Deri,Türkiye,kadın,bot,2999.0
+adidas ,Kauçuk,Tekstil,Çin,kadın,ayakkabı,2299.0
+Hammer Jack ,Termo,Deri,Türkiye,kadın,bot,1749.0
+Calvin Klein ,Poliüretan,Tekstil,Çin,erkek,,2249.0
+Calvin Klein ,Poliüretan,Tekstil,Çin,erkek,,2529.0
+Nike ,Kauçuk,Deri,Hindistan,kadın,ayakkabı,2699.0
+Asics ,Kauçuk,Sentetik,Vietnam,erkek,ayakkabı,5499.0
+Aeropostale ,Faylon,Tekstil,Türkiye,erkek,,30499.0
+Aeropostale ,Faylon,Tekstil,Türkiye,erkek,,32999.0
+Greyder ,Poliüretan,Tekstil,Türkiye,erkek,ayakkabı,299990.0
+Timberland ,EVA,Tekstil,Kamboçya,,,361496.0
+Under Armour ,Kauçuk,,,erkek,,1849.0
+Under Armour ,Kauçuk,,,erkek,ayakkabı,2099.0
+adidas ,Kauçuk,Tekstil,Vietnam,kadın,ayakkabı,3549.0
+Greyder ,Poliüretan,Tekstil,Türkiye,erkek,ayakkabı,269990.0
+Cotton Bar ,Termo,Deri,Türkiye,kadın,bot,67999.0
+George Hogg ,EVA,Deri,Türkiye,erkek,ayakkabı,5599.0
+Kappa ,Kauçuk,Sentetik,Çin,erkek,ayakkabı,119950.0
+Calvin Klein ,Poliüretan,,Çin,erkek,,3419.0
+Skechers ,Kauçuk,Sentetik,Çin,kadın,ayakkabı,2499.0
+Legero ,TPU,Süet,Romanya,kadın,bot,3149.0
+Skechers ,EVA,Tekstil,Çin,erkek,bot,1849.0
+Fabrika ,Kauçuk,,Türkiye,erkek,ayakkabı,1099.0
+Fabrika ,Kauçuk,,Türkiye,erkek,ayakkabı,1299.0
+Nike ,Kauçuk,Deri,Endonezya,kadın,ayakkabı,239990.0
+Nike ,Kauçuk,Sentetik,Vietnam,erkek,ayakkabı,3149.0
+Aeropostale ,Termoplastik,Deri,Türkiye,erkek,,99995.0
+Hush Puppies ,Termoplastik,Deri,Türkiye,kadın,bot,1899.0
+Hush Puppies ,Termoplastik,Deri,Türkiye,kadın,bot,148999.0
+Discovery Expedition ,Termo,,Türkiye,erkek,ayakkabı,64995.0
+Discovery Expedition ,Termo,,Türkiye,erkek,ayakkabı,82995.0
+New Balance ,Kauçuk,Deri,Türkiye,erkek,ayakkabı,2099.0
+F By Fabrika ,Termo,Deri,Türkiye,erkek,bot,59999.0
+Puma ,Kauçuk,deri,,erkek,ayakkabı,193050.0
+Clarks ,Kauçuk,Deri,Kamboçya,erkek,bot,6649.0
+Clarks ,Kauçuk,Nubuk,Kamboçya,erkek,bot,5899.0
+adidas ,Kauçuk,Sentetik,Vietnam,erkek,ayakkabı,2649.0
+Reebok ,Kauçuk,,Çin,erkek,ayakkabı,119999.0
+Nike ,Kauçuk,Tekstil,Endonezya,erkek,ayakkabı,1699.0
+Keen ,Kauçuk,Poliüretan,Almanya,erkek,ayakkabı,5249.0
+Kappa ,,Sentetik,Çin,kadın,ayakkabı,134950.0
+The North Face ,Neolit,Tekstil,Vietnam,erkek,ayakkabı,5499.0
+The North Face ,,Tekstil,Vietnam,erkek,ayakkabı,5799.0
+Joma ,Kauçuk,Tekstil,Çin,erkek,ayakkabı,2199.0
+Igor ,PVC,PVC,İspanya,,,39499.0
+Igor ,PVC,PVC,İspanya,erkek,,60995.0
+Igor ,PVC,PVC,İspanya,,,60995.0
+Hush Puppies ,Sentetik,Deri,Türkiye,erkek,bot,116499.0
+Jack Wolfskin ,,Sentetik,Çin,erkek,ayakkabı,238499.0
+Fabrika ,Termo,,Türkiye,erkek,ayakkabı,1249.0
+Tommy Hilfiger ,Kauçuk,Deri,Portekiz,kadın,bot,4049.0
+Greyder ,Poliüretan,Deri,Türkiye,erkek,ayakkabı,153999.0
+Under Armour ,Kauçuk,,Vietnam,erkek,ayakkabı,4749.0
+Reebok ,Kauçuk,,Vietnam,erkek,ayakkabı,144999.0
+Greyder ,,,Türkiye,kadın,bot,369990.0
+Timberland ,TPU,Tekstil,Kamboçya,erkek,bot,5499.0
+Skechers ,Kauçuk,,Çin,,bot,2399.0
+adidas ,Kauçuk,,Vietnam,erkek,ayakkabı,1999.0
+Igor ,Poliüretan,PVC,İspanya,erkek,bot,82995.0
+Igor ,Poliüretan,PVC,İspanya,erkek,bot,95995.0
+Nike ,Kauçuk,,Çin,erkek,ayakkabı,3399.0
+Nike ,Kauçuk,,Endonezya,erkek,ayakkabı,1149.0
+Clarks ,Kauçuk,Deri,Kamboçya,erkek,ayakkabı,5349.0
+Salomon ,EVA,Sentetik,Vietnam,erkek,ayakkabı,325995.0
+The North Face ,EVA,Tekstil,Kamboçya,erkek,bot,4599.0
+Reebok ,Kauçuk,,Çin,,ayakkabı,89999.0
+adidas ,Kauçuk,Sentetik,Çin,erkek,ayakkabı,4299.0
+adidas ,Kauçuk,Tekstil,Vietnam,erkek,ayakkabı,3299.0
+Skechers ,Kauçuk,Sentetik,Türkiye,erkek,ayakkabı,3499.0
+The North Face ,,,Kamboçya,erkek,ayakkabı,4599.0
+Hummel ,Phylon,Deri,Türkiye,erkek,ayakkabı,174995.0
+Pierre Cardin ,Poliüretan,Deri,Türkiye,kadın,,55499.0
+Jack Wolfskin ,,Tekstil,Kamboçya,erkek,ayakkabı,3399.0
+F By Fabrika ,Termo,Deri,Türkiye,kadın,bot,129999.0
+Camper ,Kauçuk,Deri,Portekiz,erkek,ayakkabı,5999.0
+Hammer Jack ,Termo,,Türkiye,erkek,ayakkabı,1099.0
+Hammer Jack ,Termo,,Türkiye,erkek,ayakkabı,1299.0
+adidas ,Kauçuk,Sentetik,Endonezya,erkek,ayakkabı,1999.0
+Legero ,TPU,Deri,Romanya,kadın,bot,3349.0
+Skechers ,Kauçuk,Sentetik,Vietnam,erkek,ayakkabı,3399.0
+Fabrika Comfort ,Faylon,,Türkiye,erkek,ayakkabı,1399.0
+Cotton Bar ,EVA,Deri,Türkiye,erkek,ayakkabı,49999.0
+Ecco ,Poliüretan,Deri,Slovakya,erkek,ayakkabı,3299.0
+Skechers ,Poliüretan,Deri,Çin,erkek,bot,4199.0
+Under Armour ,Kauçuk,Tekstil,Vietnam,erkek,ayakkabı,2049.0
+Puma ,Kauçuk,Sentetik,Kamboçya,erkek,ayakkabı,288750.0
+Helly Hansen ,EVA,Tekstil,Vietnam,kadın,ayakkabı,3099.0
+Timberland ,Kauçuk,Sentetik,Kamboçya,erkek,ayakkabı,4999.0
+Calvin Klein ,Poliüretan,,Çin,erkek,,2449.0
+Calvin Klein ,Poliüretan,Deri,Çin,erkek,,2449.0
+Igor ,PVC,PVC,,,,73995.0
+adidas ,EVA,Sentetik,Hindistan,kadın,ayakkabı,2849.0
+Discovery Expedition ,Termo,,Türkiye,erkek,bot,70995.0
+Kappa ,,Sentetik,Türkiye,kadın,ayakkabı,59950.0
+Karl Lagerfeld ,Kauçuk,Deri,Çin,kadın,bot,3599.0
+Reebok ,Kauçuk,,Çin,erkek,ayakkabı,104999.0
+Under Armour ,Kauçuk,Mesh,Vietnam,erkek,ayakkabı,2799.0
+Nike ,Kauçuk,,Endonezya,erkek,ayakkabı,1399.0
+Reebok ,Kauçuk,,Çin,kadın,ayakkabı,139999.0
+Guess ,Kauçuk,Poliüretan,Çin,kadın,bot,4249.0
+Guess ,Kauçuk,,Çin,kadın,bot,4249.0
+Aeropostale ,Termoplastik,Deri,Türkiye,erkek,,63499.0
+Aeropostale ,Termoplastik,Deri,Türkiye,erkek,,66499.0
+Aeropostale ,Termoplastik,Deri,Türkiye,erkek,,62999.0
+Skechers ,Kauçuk,Sentetik,Türkiye,kadın,ayakkabı,3149.0
+Skechers ,Kauçuk,Sentetik,Türkiye,kadın,ayakkabı,2649.0
+Under Armour ,kauçuk,,Vietnam,erkek,ayakkabı,2349.0
+Hummel ,Faylon,,Türkiye,,ayakkabı,96495.0
+Skechers ,Poliüretan,Deri,,erkek,,2749.0
+Nike ,Kauçuk,,Çin,,ayakkabı,3949.0
+Ecco ,Poliüretan,Deri,Çin,erkek,ayakkabı,4849.0
+Sebago ,Kauçuk,Deri,Cum.,erkek,ayakkabı,399992.0
+Sebago ,Kauçuk,Deri,Cum.,erkek,ayakkabı,429990.0
+Hammer Jack ,Termoplastik,Deri,Türkiye,kadın,bot,1449.0
+adidas ,Kauçuk,Tekstil,Çin,erkek,ayakkabı,5899.0
+adidas ,Kauçuk,Sentetik,Endonezya,kadın,ayakkabı,3049.0
+Fabrika ,Termo,Deri,Türkiye,erkek,bot,2249.0
+Fabrika ,Termo,Deri,Türkiye,erkek,bot,2649.0
+Aeropostale ,Termoplastik,,Türkiye,erkek,bot,90995.0
+Fabrika ,Kauçuk,Deri,Türkiye,erkek,bot,1249.0
+F By Fabrika ,Termo,Deri,Türkiye,kadın,bot,69499.0
+F By Fabrika ,Termo,Deri,Türkiye,kadın,bot,65499.0
+Tommy Hilfiger ,Kauçuk,,Vietnam,kadın,,2449.0
+Under Armour ,Kauçuk,,Vietnam,,,3620.0
+Jack Wolfskin ,,Tekstil,Vietnam,erkek,ayakkabı,5149.0
+Jack Wolfskin ,,Tekstil,Vietnam,erkek,ayakkabı,4499.0
+Jack Wolfskin ,,Tekstil,Vietnam,kadın,ayakkabı,4499.0
+New Balance ,Kauçuk,Süet,Çin,kadın,ayakkabı,3499.0
+F By Fabrika ,Poliüretan,,Türkiye,erkek,ayakkabı,83999.0
+F By Fabrika ,Poliüretan,,Türkiye,erkek,ayakkabı,73999.0
+adidas ,EVA,Tekstil,Myanmar,,ayakkabı,90995.0
+Skechers ,,,,erkek,ayakkabı,1599.0
+adidas ,Kauçuk,Sentetik,Çin,kadın,ayakkabı,3249.0
+Ecco ,Poliüretan,Deri,Çin,erkek,ayakkabı,3699.0
+Hummel ,Poliüretan,Deri,Türkiye,kadın,ayakkabı,90995.0
+Hummel ,Poliüretan,Deri,Türkiye,kadın,ayakkabı,99995.0
+Greyder ,Poliüretan,Tekstil,Türkiye,erkek,bot,3449.0
+Merrell ,taban,Sentetik,Vietnam,erkek,ayakkabı,2249.0
+Fabrika ,Termo,,Türkiye,erkek,ayakkabı,1499.0
+Harley Davidson ,Kauçuk,Nubuk,Kamboçya,erkek,bot,2799.0
+Fabrika Comfort ,EVA,Deri,Türkiye,erkek,bot,1099.0
+Fabrika ,PVC,Deri,Türkiye,erkek,ayakkabı,62499.0
+Hummel ,Faylon,Tekstil,Türkiye,kadın,,98499.0
+U.S. Polo Assn. ,Termoplastik,Poliüretan,Türkiye,kadın,,55499.0
+U.S. Polo Assn. ,Termoplastik,PU,Türkiye,kadın,,50999.0
+U.S. Polo Assn. ,Termoplastik,PU,Türkiye,kadın,,56499.0
+Nike ,Kauçuk,Sentetik,Hindistan,,ayakkabı,1049.0
+Puma ,EVA,Deri,Çin,kadın,bot,2288.0
+Caterpillar ,Kauçuk,Nubuk,Türkiye,kadın,bot,2699.0
+Fabrika ,Termo,Deri,Türkiye,kadın,bot,1099.0
+Fabrika ,Termo,,Türkiye,erkek,,1249.0
+Fabrika ,Termo,Deri,Türkiye,erkek,,1499.0
+Aeropostale ,Termoplastik,Deri,Türkiye,kadın,bot,77999.0
+Reebok ,Kauçuk,Poliüretan,Çin,erkek,ayakkabı,79999.0
+Tommy Hilfiger ,Poliüretan,,Vietnam,erkek,,2499.0
+Kappa ,,Sentetik,Çin,erkek,ayakkabı,134950.0
+F By Fabrika ,Kauçuk,,Türkiye,erkek,bot,84999.0
+F By Fabrika ,Termo,,Türkiye,erkek,bot,90499.0
+Calvin Klein ,Poliüretan,,Portekiz,erkek,bot,5989.0
+F By Fabrika ,Termo,,Türkiye,erkek,bot,94999.0
+Skechers ,EVA,Tekstil,Çin,erkek,ayakkabı,2199.0
+Nike ,Kauçuk,Sentetik,Hindistan,,ayakkabı,1599.0
+Skechers ,Kauçuk,Tekstil,Çin,erkek,ayakkabı,2449.0
+Greyder ,Poliüretan,Tekstil,Türkiye,erkek,bot,2999.0
+Fabrika ,EVA,,Türkiye,erkek,bot,1399.0
+Reebok ,Kauçuk,Mesh,Vietnam,erkek,ayakkabı,1150.0
+Harley Davidson ,Kauçuk,Deri,Türkiye,,bot,1749.0
+Discovery Expedition ,,,,,bot,90995.0
+Discovery Expedition ,Termo,,Türkiye,,bot,90995.0
+Columbia ,Kauçuk,Polyester,Kamboçya,kadın,bot,794990.0
+Ecco ,Kauçuk,Süet,Endonezya,,,3449.0
+Skechers ,EVA,,Çin,erkek,ayakkabı,2299.0
+adidas ,Kauçuk,Tekstil,Endonezya,erkek,ayakkabı,2449.0
+Reebok ,Kauçuk,PU,Vietnam,erkek,ayakkabı,239999.0
+Camper ,Kauçuk,Deri,Vietnam,erkek,ayakkabı,7399.0
+adidas ,Kauçuk,Sentetik,Endonezya,erkek,ayakkabı,1899.0
+Camper ,EVA,Deri,Vietnam,erkek,ayakkabı,6899.0
+adidas ,Kauçuk,,Çin,kadın,ayakkabı,2699.0
+Pierre Cardin ,Termoplastik,Poliüretan,Türkiye,kadın,,181990.0
+Pierre Cardin ,Termoplastik,Poliüretan,Türkiye,kadın,,1649.0
+Camper ,Kauçuk,Deri,,erkek,ayakkabı,5999.0
+F By Fabrika ,TPU,,Türkiye,kadın,bot,102499.0
+F By Fabrika ,TPU,,Türkiye,kadın,bot,93499.0
+F By Fabrika ,TPU,,Türkiye,kadın,bot,108499.0
+The North Face ,EVA,Tekstil,Kamboçya,kadın,bot,4599.0
+Clarks ,Kauçuk,Deri,Kamboçya,erkek,bot,4099.0
+Fabrika Comfort ,Kauçuk,Deri,Türkiye,erkek,bot,1499.0
+Pierre Cardin ,Poliüretan,Deri,Türkiye,kadın,ayakkabı,70499.0
+Jack Wolfskin ,,Tekstil,Kamboçya,erkek,ayakkabı,4299.0
+Nike ,Kauçuk,Tekstil,Endonezya,erkek,ayakkabı,2399.0
+adidas ,Kauçuk,Tekstil,Vietnam,erkek,ayakkabı,3599.0
+Fabrika ,EVA,,Türkiye,erkek,ayakkabı,1449.0
+Aeropostale ,Termoplastik,,Türkiye,kadın,,1449.0
+Aeropostale ,Termoplastik,,Türkiye,kadın,,1249.0
+Nike ,,,,kadın,ayakkabı,2999.0
+adidas ,Kauçuk,Tekstil,Endonezya,kadın,ayakkabı,2199.0
+Skechers ,Kauçuk,Tekstil,Vietnam,erkek,bot,4699.0
+Skechers ,,,Çin,kadın,ayakkabı,1999.0
+Fabrika ,EVA,,Türkiye,erkek,,1199.0
+Fabrika ,EVA,,Türkiye,erkek,,1249.0
+Greyder ,Poliüretan,Deri,Türkiye,erkek,,172499.0
+Greyder ,Poliüretan,Deri,Türkiye,erkek,,171499.0
+Merrell ,EVA,Sentetik,Vietnam,erkek,ayakkabı,6599.0
+Hammer Jack ,Termo,,Türkiye,erkek,ayakkabı,1549.0
+Converse ,Kauçuk,Mesh,Vietnam,erkek,ayakkabı,195415.0
+Puma ,Kauçuk,Deri,Kamboçya,kadın,ayakkabı,1815.0
+Asics ,Kauçuk,Sentetik,Vietnam,kadın,ayakkabı,1649.0
+Buckhead ,Termo,Deri,Türkiye,erkek,bot,67995.0
+Buckhead ,Termo,Deri,Türkiye,,bot,58995.0
+Versace Jeans Couture ,Phylon,,Çin,erkek,,11799.0
+Versace Jeans Couture ,Phylon,,Çin,erkek,,8949.0
+Vans ,Kauçuk,Kanvas,,,ayakkabı,2699.0
+Joma ,Phylon,Mesh,Çin,erkek,ayakkabı,1999.0
+Pierre Cardin ,Poliüretan,Deri,Türkiye,kadın,,91995.0
+Puma ,Kauçuk,Sentetik,Çin,erkek,ayakkabı,1716.0
+Vans ,Kauçuk,Kanvas,Çin,,ayakkabı,2699.0
+Nike ,Kauçuk,Sentetik,Vietnam,kadın,ayakkabı,2399.0
+U.S. Polo Assn. ,Termo,PVC,Türkiye,erkek,,90995.0
+U.S. Polo Assn. ,Termo,PU,Türkiye,erkek,,90995.0
+Hammer Jack ,Termo,,Türkiye,erkek,bot,1249.0
+Hammer Jack ,Termo,,Türkiye,erkek,bot,1449.0
+Reebok ,Kauçuk,,Çin,erkek,ayakkabı,99999.0
+The North Face ,Kauçuk,Deri,Kamboçya,erkek,ayakkabı,2499.0
+adidas ,Kauçuk,Deri,Endonezya,kadın,ayakkabı,3419.0
+Fabrika ,Termo,,Türkiye,erkek,ayakkabı,1449.0
+Fabrika ,Kauçuk,,Türkiye,erkek,ayakkabı,1249.0
+Fabrika ,PVC,,Türkiye,erkek,ayakkabı,90995.0
+Greyder ,Kauçuk,Tekstil,Türkiye,kadın,,1349.0
+Skechers ,EVA,Tekstil,Vietnam,erkek,ayakkabı,1649.0
+Merrell ,,Sentetik,Vietnam,erkek,ayakkabı,292499.0
+Armani Exchange ,Poliüretan,Deri,Vietnam,erkek,,5199.0
+Reebok ,Kauçuk,PU,Vietnam,,ayakkabı,199999.0
+Ecco ,Kauçuk,Deri,Vietnam,kadın,bot,225499.0
+Skechers ,Kauçuk,Sentetik,Türkiye,erkek,ayakkabı,2999.0
+Under Armour ,EVA,,Vietnam,erkek,ayakkabı,1649.0
+Hammer Jack ,Termoplastik,,Türkiye,kadın,ayakkabı,1249.0
+Under Armour ,Kauçuk,,Vietnam,kadın,ayakkabı,3499.0
+Tommy Hilfiger ,Poliüretan,,Portekiz,erkek,bot,4049.0
+adidas ,Kauçuk,Tekstil,Endonezya,kadın,ayakkabı,2299.0
+Reebok ,Kauçuk,Sentetik,Vietnam,erkek,ayakkabı,329999.0
+Helly Hansen ,,Süet,Vietnam,erkek,bot,6600.0
+Hummel ,,,Türkiye,kadın,ayakkabı,58999.0
+Hummel ,,,Türkiye,kadın,ayakkabı,86995.0
+adidas ,Kauçuk,Tekstil,Endonezya,erkek,ayakkabı,1549.0
+Ecco ,Poliüretan,Deri,Slovakya,erkek,ayakkabı,2449.0
+Salomon ,,Sentetik,Kamboçya,erkek,ayakkabı,6799.0
+Hammer Jack ,Kauçuk,Tekstil,Türkiye,,,99995.0
+Merrell ,,Sentetik,Vietnam,erkek,ayakkabı,2449.0
+Dc Shoes ,,Deri,Vietnam,erkek,ayakkabı,379999.0
+Calvin Klein ,Poliüretan,Deri,Çin,erkek,,3709.0
+Fabrika Comfort ,EVA,,Türkiye,erkek,bot,1599.0
+Skechers ,Kauçuk,Polyester,Çin,kadın,,3199.0
+Skechers ,EVA,Tekstil,Çin,erkek,,3699.0
+Skechers ,Kauçuk,Sentetik,Vietnam,erkek,ayakkabı,299112.0
+Nike ,Kauçuk,,Çin,erkek,ayakkabı,4049.0
+New Balance ,Kauçuk,,Türkiye,erkek,ayakkabı,1499.0
+Under Armour ,Kauçuk,,Vietnam,erkek,ayakkabı,2899.0
+adidas ,Kauçuk,Sentetik,Endonezya,erkek,ayakkabı,3349.0
+Vans ,Kauçuk,Süet,Vietnam,erkek,ayakkabı,1699.0
+Lumberjack ,Poliüretan,Poliüretan,Türkiye,erkek,,73999.0
+Timberland ,Kauçuk,Deri,Bangladeş,erkek,bot,521175.0
+Timberland ,Kauçuk,Deri,Bangladeş,erkek,bot,5999.0
+Timberland ,Kauçuk,Deri,Bangladeş,erkek,bot,6699.0
+Timberland ,Kauçuk,Deri,Bangladeş,erkek,bot,6299.0
+Merrell ,,Sentetik,Vietnam,erkek,ayakkabı,5249.0
+Merrell ,,Sentetik,Kamboçya,erkek,ayakkabı,5149.0
+Karl Lagerfeld ,Kauçuk,Deri,Çin,erkek,,9899.0
+Lumberjack ,Poliüretan,Poliüretan,Türkiye,erkek,,77999.0
+Flower Mountain ,Kauçuk,Tekstil,Çin,kadın,,6449.0
+Merrell ,,Sentetik,Vietnam,erkek,bot,2449.0
+Hummel ,EVA,Tekstil,Türkiye,kadın,ayakkabı,249995.0
+Skechers ,Kauçuk,Sentetik,Vietnam,kadın,ayakkabı,2649.0
+Hammer Jack ,Kauçuk,Tekstil,Türkiye,erkek,,99995.0
+Nike ,Kauçuk,Sentetik,Vietnam,,ayakkabı,1049.0
+Puma ,EVA,Deri,Vietnam,erkek,ayakkabı,250250.0
+Greyder ,Kauçuk,Deri,Türkiye,erkek,ayakkabı,1899.0
+Greyder ,Poliüretan,Deri,Türkiye,erkek,ayakkabı,161499.0
+Fabrika ,Kauçuk,Deri,Türkiye,erkek,ayakkabı,172995.0
+Salomon ,EVA,Sentetik,Vietnam,erkek,ayakkabı,4949.0
+Salomon ,,Sentetik,Vietnam,erkek,ayakkabı,4349.0
+Salomon ,,Sentetik,Vietnam,erkek,ayakkabı,5799.0
+Fabrika ,Termo,Deri,Türkiye,erkek,ayakkabı,2299.0
+Fabrika ,PVC,,Türkiye,erkek,ayakkabı,1049.0
+F By Fabrika ,,,,kadın,bot,59499.0
+Jack Wolfskin ,,Tekstil,Çin,erkek,ayakkabı,189499.0
+Hummel ,Faylon,Poliüretan,Türkiye,erkek,ayakkabı,82495.0
+Bulldozer ,Termoplastik,Deri,Türkiye,kadın,bot,2499.0
+Bulldozer ,Termoplastik,Deri,Türkiye,kadın,bot,2349.0
+Bulldozer ,Termoplastik,Deri,Türkiye,kadın,bot,2299.0
+Jack Wolfskin ,,Tekstil,Çin,erkek,ayakkabı,188499.0
+adidas ,Kauçuk,Deri,Vietnam,erkek,ayakkabı,1799.0
+Nike ,,,,kadın,ayakkabı,2549.0

@@ -4,7 +4,7 @@ import organizingFeatures
 import oneHotEncoding
 
 # veri çekme - json olarak kaydetme
-#dataExtraction.dataExtraction()
+dataExtraction.dataExtraction()
 
 #verisetini düzenle
 organizingFeatures.organize()
