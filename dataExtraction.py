@@ -1,10 +1,11 @@
 from bs4 import BeautifulSoup
 import requests
 import json
+import re
 
 
 def dataExtraction():
-    base_link = "https://www.boyner.com.tr/search?q=ayakkab%C4%B1&page="
+    base_link = "https://www.boyner.com.tr/search?q=ayakkabı&FilterIDList=20086%3B21492%3B19757%3B19982&LastSelectedAttributeId=3&page="
     headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
     all_product_links = []
 
@@ -28,8 +29,21 @@ def dataExtraction():
         brand = product_soup.find("span", class_="title_title__laaYP")
         brand = brand.text if brand else None
 
+
+
         price = product_soup.find('div', {'class': 'product-price_checkPrice__NMY9e'})
-        price = price.text.replace('TL', '').replace('.', '') if price else None  # fiyatta sadece rakamlar
+        price_text = price.text.strip() if price else None  # fiyatta sadece rakamlar
+
+        if price_text:
+            match = re.search(r'(\d+)\D', price_text)
+            if match:
+                price = int(match.group(1))
+            else:
+                price = None
+        else:
+            price = None
+
+
 
         tech_specs = product_soup.find_all("span", class_="product-information-card_value__jGcTJ")
         tech_specs2 = product_soup.find_all("span", class_="title_subtitle__9USXk")

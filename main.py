@@ -10,7 +10,7 @@ import oneHotEncoding
 #organizingFeatures.organize()
 
 # verileri excel dosyasına dönüştür
-jsonToExcel.jsonToExcel()
+#jsonToExcel.jsonToExcel()
 
 
 #one-hot encode

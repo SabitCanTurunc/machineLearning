@@ -13,7 +13,7 @@ import joblib
 import os
 
 # Verileri yükle
-data = pd.read_csv('one_hot_encoded_data.csv')
+data = pd.read_csv('one_hot_encoded_data.csv')  # Veri setinin adını doğru şekilde belirtmelisiniz
 
 # Bağımsız değişkenler ve hedef değişkeni ayır
 X = data.drop('fiyat', axis=1)
@@ -37,8 +37,9 @@ models = {
     'KNeighborsRegressor': KNeighborsRegressor(),
     'MLPRegressor': MLPRegressor()
 }
+
 # Klasörü oluştur
-os.makedirs('mLmodells', exist_ok=True)
+os.makedirs('mLmodels', exist_ok=True)  # Klasör adını düzelttim
 
 for model_name, model in models.items():
     model.fit(X_train, y_train)
@@ -47,4 +48,4 @@ for model_name, model in models.items():
     print(model_name + ' MSE:', mse)
 
     # Eğitilmiş modeli kaydet
-    joblib.dump(model, 'mLmodells/' + model_name + '_model.pkl')
+    joblib.dump(model, 'mLmodels/' + model_name + '_model.pkl')  # Klasör adını düzelttim
